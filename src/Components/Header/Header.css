@@ -1,0 +1,27 @@
+.select{
+    width: 100px;
+    height: 30px;
+    margin-left: 15px;
+}
+
+.title{
+    color: #40916c;
+    font-weight: 800;
+    cursor: pointer;
+}
+
+.title>span{
+    color: #b7e4c7;
+    font-weight: 500;
+}
+
+
+.right{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+    color: #31ac75;
+    font-weight: bold;
+    cursor: pointer;
+}

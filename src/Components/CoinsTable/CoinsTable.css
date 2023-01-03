@@ -1,0 +1,23 @@
+.container{
+    margin-bottom: 150px;
+}
+
+.mainTable {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 0px 500px;
+}
+
+table {
+  border-collapse: separate;
+  /* width: 100%; */
+}
+
+td {
+  border: 2px solid #95d5b2;
+  text-align: center;
+  padding:  18px;
+  min-width: 350px;
+  min-height: 150px;
+}

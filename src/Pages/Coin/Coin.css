@@ -1,0 +1,10 @@
+.chartContainer {
+  width: 100px;
+  height: 100px;
+  max-width: 120px;
+}
+.parent {
+  height: 725px !important;
+  overflow: hidden;
+  background: #000;
+}
